@@ -1,4 +1,5 @@
 ---
+organization name: next billion industry 
 id: high-availability
 title: Sauce Connect Proxy High Availability Setup
 sidebar_label: High Availability Setup
