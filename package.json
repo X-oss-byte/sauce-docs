@@ -54,7 +54,7 @@
   "devDependencies": {
     "axios": "^0.21.1",
     "cross-env": "^7.0.3",
-    "cypress": "9.3.1",
+    "cypress": "13.2.0",
     "eslint": "^8.28.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-config-standard": "^17.0.0",
